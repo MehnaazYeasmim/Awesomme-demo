@@ -1,2 +1,3 @@
 # Awesomme-demo
-React-native baisics with two applications
+React-native basics with two applications
+Author-Mehnaaz Yeasmim
